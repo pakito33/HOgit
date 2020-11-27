@@ -1,4 +1,6 @@
 # HOgit
+Agregado de las ramas.
+
 Me encuentro modificando el archivo como fué solicitado por los profesores
 
 Repositorio con ejercicios para practicar comandos básicos de git
