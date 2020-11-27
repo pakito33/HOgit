@@ -1,4 +1,5 @@
 # HOgit
+Este es el SEGUNDO README de charlas.
 Me encuentro modificando el archivo como fué solicitado por los profesores
 
 Repositorio con ejercicios para practicar comandos básicos de git
